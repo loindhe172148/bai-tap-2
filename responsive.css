@@ -1,0 +1,726 @@
+@media only screen and (max-width: 1439px) {
+  .site_header a {
+    margin: 8px;
+  }
+}
+@media only screen and (max-width: 1243px) {
+  #watchvideo {
+    margin-left: 0px;
+  }
+}
+@media only screen and (max-width: 1168px) {
+  #watchvideo {
+    font-size: 11px;
+  }
+  #learnmore {
+    font-size: 11px;
+  }
+  #playbutton {
+    width: 90%;
+  }
+}
+@media only screen and (min-width: 1024px) and (max-width: 1141px) {
+  #first,
+  #last {
+    border: 1px solid #d9ddfe;
+    border-radius: 15px;
+    padding: 23px 312px 21px 22px;
+  }
+  #first {
+    margin-bottom: 40px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  #background_footer {
+    background-position-y: 77.5%;
+  }
+  .site_header {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+  }
+  .main_logo img {
+    margin-left: 17px;
+    width: 86%;
+  }
+  .anh2 {
+    padding-left: 0px;
+  }
+  .clinic {
+    font-size: 35px;
+    margin-top: 0px;
+  }
+  .header_left {
+    text-align: center;
+  }
+  .noteclinic {
+    font-size: 15px;
+  }
+  #learn {
+    font-size: 25px;
+  }
+  #porta {
+    font-size: 17px;
+  }
+  .container_box {
+    padding: 0px;
+  }
+  .box_left h2,
+  .box_mid h2,
+  .box_right h2 {
+    font-size: 16px;
+    padding-top: 5px;
+  }
+  .box_left p,
+  .box_mid p,
+  .box_right p {
+    font-size: 11px;
+  }
+  #professsional h2 {
+    font-size: 26px;
+  }
+  #professsional p {
+    font-size: 15px;
+    margin-top: 20px;
+  }
+  #main_logo {
+    display: flex;
+    justify-content: center; /* Căn giữa logo theo chiều ngang */
+    margin-bottom: 50px;
+  }
+  #main_logo img {
+    width: 50%;
+    max-width: 100%;
+  }
+  #main_menu {
+    display: flex;
+    justify-content: center; /* Căn giữa logo theo chiều ngang */
+    margin-bottom: 50px;
+  }
+  #contact_button {
+    display: flex;
+    justify-content: center; /* Căn giữa logo theo chiều ngang */
+    margin-bottom: 50px;
+  }
+  #main_header {
+    text-align: center;
+  }
+  #box_section {
+    display: block;
+  }
+  #box_section img {
+    width: 30%;
+  }
+  #about_us {
+    text-align: center;
+    margin-left: 10px;
+  }
+  #aboutus1 {
+    font-size: 25px;
+    line-height: 1;
+    text-align: center;
+  }
+  #aboutus2 {
+    font-size: 11px;
+  }
+  #aboutus3 {
+    font-size: 11px;
+  }
+  #aboutus4 {
+    margin-top: 20px;
+    justify-content: space-evenly;
+  }
+  #learnmore {
+    padding: 8px 25px;
+    font-size: 15px;
+  }
+  #playbutton {
+    width: 69%;
+  }
+  #watchvideo {
+    font-size: 15px;
+    margin-right: 0px;
+  }
+  #mentor_3 {
+    padding-top: 0px;
+    padding: 0 50px;
+  }
+  #img1,
+  #img2,
+  #img3 {
+    width: 62%;
+    max-width: 100%;
+  }
+  .box_left,
+  .box_mid,
+  .box_right {
+    block-size: 46vw;
+  }
+  #about_us {
+    margin-top: 40px;
+  }
+  .main_header {
+    margin-top: 100px;
+  }
+  #sliderbt {
+    margin-top: 50px;
+  }
+  #core_servies {
+    margin-top: 50px;
+  }
+  #mentor_3 h1 {
+    margin-top: 30px;
+    font-size: 13px;
+  }
+  #mentor_3 h2 {
+    font-size: 16px;
+  }
+  #mentor_3 p {
+    font-size: 14px;
+  }
+  #professsional {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .lienlac img {
+    width: 100%;
+    margin-top: 5px;
+  }
+  #mentor1,
+  #mentor2,
+  #mentor3 {
+    block-size: 44vw;
+  }
+  #contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+    width: 100%;
+    padding-top: 0px;
+    gap: 0px;
+  }
+  #contact img {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+  #text_box {
+    margin-top: 0px;
+  }
+  #footer {
+    padding-bottom: 145px;
+    background-size: 100% 70%;
+    margin-top: 50px;
+    padding-top: 120px;
+  }
+  #footer1 {
+    padding-left: 0px;
+    padding-top: 80px;
+  }
+  .abcd {
+    margin-top: 15px;
+    font-size: 17px;
+  }
+  .abcde {
+    margin-top: 15px;
+    font-size: 17px;
+  }
+  #anhlogocuoi {
+    width: 50%;
+    margin-left: 80px;
+  }
+  #footer2 {
+    margin-left: 77px;
+  }
+  .footer3 {
+    margin-left: 77px;
+  }
+  #diachilienlac {
+    margin-left: 75px;
+    margin-top: 20px;
+  }
+  #diachilienlac p {
+    font-size: 12px;
+  }
+  .ef {
+    font-size: 15px;
+  }
+  .efg {
+    font-size: 15px;
+  }
+  #button_row {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  #end_footer {
+    margin-top: 0px;
+  }
+  #end_footer .anhcuoi {
+    margin-left: 70px;
+    margin-top: 0px;
+    width: 78%;
+  }
+  #end_footer #aaaaa {
+    text-align: right;
+    margin-right: 0px;
+    font-size: 11px;
+  }
+  br {
+    display: none;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .site_header {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* display: block; */
+  }
+  .main_logo img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 0px;
+    /* margin-top: 0px; */
+    width: 60%;
+  }
+  .container_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  #mentor_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+  }
+  #contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+  }
+  #footer1 {
+    padding-left: 0px;
+    padding-top: 50px;
+    display: flex;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+  }
+  .main_header {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+    margin-top: 55px;
+    padding-left: 0px;
+  }
+  .clinic {
+    font-size: 35px;
+    line-height: 1.22;
+    color: rgb(9, 17, 86);
+    letter-spacing: 0px;
+    margin-bottom: 0px;
+  }
+  .noteclinic {
+    font-size: 15px;
+  }
+
+  #about_us {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Horizontally center items */
+    justify-content: center; /* Vertically center items */
+    text-align: center; /* Center align text */
+  }
+  .anh2 {
+    padding-left: 0px;
+    margin-top: 80px;
+  }
+  #sliderbt {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    margin-top: 80px;
+  }
+  #core_servies {
+    margin-top: 80px;
+  }
+  #learn {
+    font-size: 25px;
+  }
+  #porta {
+    font-size: 15px;
+  }
+  .box_left img,
+  .box_mid img,
+  .box_right img {
+    padding-top: 20px;
+  }
+  .box_left h2,
+  .box_mid h2,
+  .box_right h2 {
+    font-size: 16px;
+    padding-top: 0px;
+  }
+  .box_left p,
+  .box_mid p,
+  .box_right p {
+    font-size: 14px;
+  }
+  #aboutus1 {
+    font-size: 16px;
+  }
+  #aboutus2 {
+    font-size: 13px;
+  }
+  #aboutus3 {
+    font-size: 13px;
+  }
+  #watchvideo {
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: 11px;
+  }
+  #learnmore {
+    padding: 13px 35px 13px 35px;
+    font-size: 11px;
+  }
+  .box_left,
+  .box_mid,
+  .box_right {
+    block-size: 25vw;
+    inline-size: 40vh;
+  }
+  #aboutus4 {
+    margin-top: 25px;
+    margin-right: 5px;
+    margin-left: 5px;
+  }
+  #professsional h1 {
+    font-size: 12px;
+  }
+  #professsional h2 {
+    font-size: 20.5px;
+  }
+  #professsional p {
+    font-size: 12px;
+  }
+  #mentor1,
+  #mentor2,
+  #mentor3 {
+    block-size: 25vw;
+    inline-size: 38vh;
+  }
+  #mentor_3 {
+    padding: 0px 28px;
+    padding-top: 20px;
+    gap: 54px;
+  }
+  #contact {
+    padding-top: 0px;
+    gap: 20px;
+  }
+  #contact img {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+  #text_box h2 {
+    color: rgb(9, 17, 86);
+    font-size: 20px;
+    margin-top: 7px;
+    line-height: 27px;
+    letter-spacing: -0.3px;
+  }
+  #text_box p {
+    font-size: 14px;
+  }
+  #first {
+    margin-right: 0px;
+    margin-bottom: 40px;
+    padding: 21px 15px 21px 25px;
+  }
+  #last {
+    padding: 21px 15px 21px 25px;
+  }
+  #email {
+    padding: 21px 15px 21px 25px;
+  }
+  #subject {
+    padding: 21px 15px 21px 25px;
+  }
+  #your {
+    padding: 21px 15px 100px 25px;
+  }
+  #about_us {
+    margin-left: 0px;
+  }
+  #footer {
+    padding-bottom: 30px;
+    background-size: 100% 80%;
+    margin-top: 0;
+    padding-top: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  #footer1 {
+    padding-left: 0px;
+  }
+  .abcd {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 8px;
+    margin-left: -5px;
+  }
+  .abcd p {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
+  .abcde p {
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+  }
+  .abcde {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 8px;
+    margin-left: -5px;
+  }
+  #anhlogocuoi {
+    width: 55%;
+    margin: 0px;
+    margin-bottom: 10px;
+  }
+  #footer2 {
+    font-size: 8px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  .footer3 {
+    font-size: 8px;
+    margin-top: 0px;
+    margin-left: 0px;
+  }
+  #diachilienlac {
+    /* display: block; */
+    margin-top: 0px;
+    margin-left: 0px;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  #diachilienlac p {
+    font-size: 8px;
+  }
+  .ef {
+    font-size: 8px;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 10px;
+  }
+  .efg {
+    font-size: 8px;
+    margin: 0px;
+    padding: 0px;
+  }
+  #button_row {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  #end_footer {
+    margin-top: 0px;
+  }
+  #end_footer .anhcuoi {
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 78%;
+  }
+  #end_footer #aaaaa {
+    text-align: right;
+    font-size: 10px;
+    margin-right: 30px;
+  }
+  .a1 {
+    margin-top: 0px;
+  }
+
+  .a1 p {
+    margin: 2px 0px;
+  }
+
+  #button_row {
+    margin-right: 10px;
+  }
+  #bbbbb {
+    width: 24px;
+  }
+  #end_footer {
+    margin-top: 0px;
+    display: block;
+  }
+  #end_footer .anhcuoi {
+    margin-left: 0px;
+    margin-top: 0px;
+    width: 61%;
+  }
+  #end_footer #aaaaa {
+    text-align: center;
+    margin: 0px;
+    font-size: 8px;
+    padding-bottom: 20px;
+  }
+
+  .menu-toggle {
+    margin-right: 18px;
+    display: block;
+    border-radius: 5px;
+    background-color: rgb(255, 100, 174);
+    margin-top: 50px;
+    height: 100%;
+    /* width: 19%;
+    margin-left: -30px;
+    margin-right: 30px; */
+  }
+
+  .main_menu li {
+    margin-left: 0;
+  }
+
+  .main_menu a {
+    margin-left: 0;
+  }
+  #background_footer {
+    background-position-y: 85.4%;
+  }
+  br {
+    display: none;
+  }
+
+  #footer1 {
+    display: block;
+    padding-top: 62px;
+  }
+  .ef {
+    display: flex;
+    justify-content: space-evenly;
+    /* list-style-type: none; */
+    list-style-image: none;
+    margin-left: 15px;
+  }
+  .ef p {
+    margin-right: 10px;
+  }
+  .efg {
+    display: flex;
+    justify-content: space-evenly;
+    /* list-style-type: none; */
+    list-style-image: none;
+    margin-left: 15px;
+  }
+  .efg p {
+    margin-right: 15px;
+  }
+  li {
+    /* list-style-type: none; */
+    /* list-style-image: none; */
+  }
+  #bbbbb {
+    align-items: end;
+    margin-left: 260px;
+  }
+  #button_row {
+    margin-right: 0px;
+    margin-bottom: -17px;
+  }
+
+  .home_1:hover,
+  .home_2:hover,
+  .home_3:hover,
+  .home_4:hover,
+  .home_5:hover,
+  .contact_button:hover {
+    background-color: #d3d3d3;
+  }
+  .main_menu ul {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 134px;
+    left: 53%;
+    right: 0;
+    transform: translate(0%, -50%);
+    width: 42%;
+
+    border-radius: 10px;
+  }
+  .main_menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 0; /* Align to the left edge of the screen */
+    right: 0; /* Align to the right edge of the screen */
+    transform: translate(
+      0%,
+      -50%
+    ); /* Center horizontally without altering width */
+    width: 100%; /* Make the menu span the full width of the screen */
+  }
+  .contact_button {
+    background: none;
+    padding: 0px;
+  }
+  .menu {
+    background: rgb(228, 228, 226);
+    border: 1px solid #9bb8e5; /* Light gray border similar to Facebook */
+    border-radius: 4px; /* Slightly rounded corners */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05); /* Optional: Add a subtle shadow */
+  }
+  .menu {
+    padding-left: 0px;
+  }
+  #footer {
+    /* background: none; */
+    padding-bottom: 40px;
+  }
+  /* #background_footer {
+    background-image: url("img/Bottom BG.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+    width: auto;
+    height: auto;
+    background-size: 100% 76%;
+    background-position-y: 100%;
+    opacity: 0.9;
+  }*/
+  #background_footer a:hover {
+    color: #ff6347; /* Màu khi hover */
+    text-decoration: underline;
+  }
+  .a1 {
+    border-bottom: 1px groove #ccc; /* Đường viền để làm rõ khoảng cách */
+    margin: 10px; /* Khoảng cách giữa các div */
+  }
+}
